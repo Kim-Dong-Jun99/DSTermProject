@@ -1,6 +1,8 @@
-# DSTermProject
-## World Happiness Report Data Analysis
+# Data Science TermProject
 > Project code for Term Project in 2022 Data Science class
+## Objective of TermProject:
+> World Happiness Report Data Analysis
+> Use World Happiness Report(https://www.kaggle.com/datasets/unsdsn/world-happiness?datasetId=894&sortBy=voteCount&searchQuery=predict) to predict continent value of dataset
 
 ## Team member 
 |Name     |  Part   | 
