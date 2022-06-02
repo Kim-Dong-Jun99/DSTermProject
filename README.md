@@ -11,4 +11,7 @@
 |[김동준](https://github.com/Kim-Dong-Jun99)| 업뎃예정        |
 |[김민경](https://github.com/minkyung73) |     업뎃예정    |
 |[이지원](https://github.com/) |     업뎃예정    |
-|[허윤영](https://github.com/) |    업뎃예정    |
+|[허윤영](https://github.com/use07143) |    업뎃예정    |
+
+## Project description
+> 
