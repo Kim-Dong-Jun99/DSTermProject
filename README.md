@@ -1,2 +1,3 @@
 # DSTermProject
-## DataScience term project : Analyze world happiness data to predict continent of countries
+## World Happiness Report Data Analysis
+> Project code for Term Project in 2022 Data Science class
