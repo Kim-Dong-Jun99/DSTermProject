@@ -14,4 +14,4 @@
 |[허윤영](https://github.com/use07143) |    data visualization, classification, ppt    |
 
 ## Project description
-> 
+> Analyze World Happiness Report dataset by various visualization, and automation of data scaling, classification and clustering
